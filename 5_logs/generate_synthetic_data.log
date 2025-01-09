@@ -1,0 +1,3 @@
+2025-01-08 17:47:44,834 - INFO - Starting synthetic data generation.
+2025-01-08 17:47:45,680 - INFO - 100 records generated successfully.
+2025-01-08 17:47:45,705 - INFO - Data successfully saved to 2_data/synthetic_data.csv

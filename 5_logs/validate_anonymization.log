@@ -1,0 +1,13 @@
+2025-01-09 13:29:28,213 - INFO - Loading anonymized data.
+2025-01-09 13:29:28,351 - INFO - Anonymized data loaded successfully from 2_data/anonymized_data_gdpr.csv
+2025-01-09 13:29:28,405 - INFO - Starting anonymization validation.
+2025-01-09 13:29:28,456 - INFO - Name_Anonymized: Passed
+2025-01-09 13:29:28,456 - INFO - Email_Masked: Passed
+2025-01-09 13:29:28,456 - INFO - Phone_Masked: Passed
+2025-01-09 13:29:28,473 - INFO - Address_Generalized: Passed
+2025-01-09 13:29:28,475 - INFO - Birthdate_Generalized: Passed
+2025-01-09 13:29:28,477 - INFO - Starting data utility checks.
+2025-01-09 13:29:28,534 - INFO - Record_Count: 100
+2025-01-09 13:29:28,568 - INFO - Unique_Names: 100
+2025-01-09 13:29:28,622 - INFO - Unique_Emails: 86
+2025-01-09 13:29:28,638 - INFO - Validation report saved to 3_results\validation_report.txt

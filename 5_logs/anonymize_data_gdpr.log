@@ -1,0 +1,5 @@
+2025-01-08 17:53:12,439 - INFO - Loading synthetic data.
+2025-01-08 17:53:12,513 - INFO - Synthetic data loaded successfully from 2_data/synthetic_data.csv
+2025-01-08 17:53:12,548 - INFO - Starting GDPR-compliant data anonymization.
+2025-01-08 17:53:12,610 - INFO - Data anonymized successfully.
+2025-01-08 17:53:12,728 - INFO - Anonymized data saved to 2_data/anonymized_data_gdpr.csv

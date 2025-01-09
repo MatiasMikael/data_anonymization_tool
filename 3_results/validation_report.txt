@@ -1,0 +1,11 @@
+Anonymization Validation Results:
+Name_Anonymized: Passed
+Email_Masked: Passed
+Phone_Masked: Passed
+Address_Generalized: Passed
+Birthdate_Generalized: Passed
+
+Data Utility Results:
+Record_Count: 100
+Unique_Names: 100
+Unique_Emails: 86
